@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="perfil_size_width">96dp</dimen>
+    <dimen name="perfil_size_height">96dp</dimen>
+    <dimen name="elevation_toolbar">4dp</dimen>
+</resources>

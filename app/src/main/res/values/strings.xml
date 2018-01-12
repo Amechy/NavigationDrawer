@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="action_home">Home</string>
+    <string name="action_dependency">Dependency</string>
+    <string name="action_sector">Sector</string>
+    <string name="navigation_subheader">Otras opciones</string>
+    <string name="action_help">Ayuda</string>
+    <string name="action_configuracion">Configuracion</string>
+    <string name="drawer_open">Abierto</string>
+    <string name="drawer_close">Cerrado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

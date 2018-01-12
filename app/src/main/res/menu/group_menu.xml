@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/action_home"
+            android:title="@string/action_home"
+            android:icon="@drawable/home_icon_menu">
+        </item>
+        <item android:id="@+id/action_dependency"
+            android:title="@string/action_dependency"
+            android:icon="@drawable/dependency_icon_menu">
+        </item>
+        <item android:id="@+id/action_sector"
+            android:title="@string/action_sector"
+            android:icon="@drawable/sector_icon_menu">
+        </item>
+    </group>
+    <item android:id="@+id/navigation_subheader"
+        android:title="@string/navigation_subheader">
+        <menu>
+            <item
+                android:id="@+id/action_help"
+                android:icon="@drawable/setting_icon_menu"
+                android:title="@string/action_help">
+            </item>
+            <item android:title="@string/action_configuracion"
+                android:id="@+id/action_configuration"
+                android:icon="@drawable/help_icon_menu">
+            </item>
+        </menu>
+    </item>
+</menu>
